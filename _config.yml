@@ -1,10 +1,10 @@
 title: John Doe # your name (or website title) here
 logo: "/images/karan.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Experienced Professional with a demonstrated history of working in the Management Consulting, Pharmaceutical and Financial Services industry.
-
-  <br><br>
-Skilled in Business Strategy, Quantitative Analysis, Data Analytics & Visualization, Risk Management & Project Management.   <br><br>
+Experienced Professional with a demonstrated history of working in the Management Consulting, Pharmaceutical and Financial Services industry.
+ <br><br>
+ Skilled in Business Strategy, Quantitative Analysis, Data Analytics & Visualization, Risk Management & Project Management. 
+<br><br>
   <a href="https://www.linkedin.com/in/karan-singh-aulakh-42480a19//">Check Me on LinkedIn</a> 
   
 theme: jekyll-theme-hacker
