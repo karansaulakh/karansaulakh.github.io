@@ -1,11 +1,11 @@
 title: John Doe # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+logo: "/images/karan.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Experienced Professional with a demonstrated history of working in the Management Consulting, Pharmaceutical and Financial Services industry.
+
   <br><br>
-  Second description 
-  <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+Skilled in Business Strategy, Quantitative Analysis, Data Analytics & Visualization, Risk Management & Project Management.   <br><br>
+  <a href="https://www.linkedin.com/in/karan-singh-aulakh-42480a19//">Check Me on LinkedIn</a> 
   
 theme: jekyll-theme-hacker
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
